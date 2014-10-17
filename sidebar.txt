@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gin:home|Door43 (gin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gin|d43-gin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gin/archive/master.zip|d43-gin.zip]]
+
+**Recent Changes**
+{{changes>ns = gin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gin|Ethnologue data]]
+
